@@ -1,0 +1,32 @@
+h1{
+    color: white
+  }
+  Img{
+    width: 480px;
+  }
+  #thirdDiv{
+    height: 600px;
+    width: 500px;
+    background-color: yellow;
+    padding: 50;
+    border: 10px solid green;
+  }
+  #SpanId{
+    font-size: 18px;
+    margin: 50px;
+    
+  }
+  body {
+      background-image: url(https://png.pngtree.com/thumb_back/fw800/back_our/20190621/ourmid/pngtree-restaurant-food-menu-background-image_190820.jpg);
+      background-repeat: no-repeat;
+      background-size: cover;
+  }
+
+  div {
+      margin: 0 auto;
+  }
+
+  .divClass {
+      width: 580 px;
+      text-align: center;
+  }
