@@ -1,0 +1,5 @@
+Variables: son valores que se pueden variar y que servirán de apoyo más adeltante para ser usados como valores. 
+Strings: bloques de textos entre comillas para definir lo que querramos expresar/escribir.
+Funciones (argumentos, return): lo que lee y ejecuta lo que definimos en strings en base a las variables anteriormente definidas por nosotros.
+Declaraciones if: Todo lo que salga como resultado procesado de las funciones. If es usado para control de flujo.
+Valores booleanos (true, false): es usado para comparar funciones y verificar si la sentencia es verdadera o falsa.
